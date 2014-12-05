@@ -1,3 +1,10 @@
+##Course Project 1
+Please note that if the file "household\_power\_consumption.txt" is in the
+current working directory, the plot#.R scripts will try to read that file for
+the data. Otherwise, the script will download the data and unzip the file to the
+current working directory.
+
+______________________
 ## Introduction
 
 This assignment uses data from
